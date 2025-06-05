@@ -1,0 +1,11 @@
+Team,Match ID,Event Type,Significant Impact,Avg TRB Before (s),Avg TRB After (s),Faster After Event,p-value
+Argentina,All Matches,All Goals,No,42.31,86.46,No,0.1793
+Argentina,All Matches,Substitutions,No,79.04,63.11,Yes,0.4470
+Argentina,All Matches,Tactical Shifts,No,79.80,61.47,Yes,0.2904
+Argentina,All Matches,Injuries,Yes,113.31,73.44,Yes,0.0043
+Argentina,All Matches,Yellow Cards,No,66.43,79.33,No,0.2012
+France,All Matches,All Goals,Yes,50.23,113.46,No,0.0123
+France,All Matches,Substitutions,No,77.89,55.47,Yes,0.0692
+France,All Matches,Tactical Shifts,No,70.21,39.99,Yes,0.1993
+France,All Matches,Injuries,No,88.84,74.36,Yes,0.6933
+France,All Matches,Yellow Cards,No,64.56,69.80,No,0.6268

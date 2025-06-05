@@ -1,0 +1,4 @@
+Team,Match ID,Opposing Team,Event Type,Significant Impact,Avg TRB Before (s),Avg TRB After (s),Faster After Event,p-value
+Argentina,3857300,Saudi Arabia,Substitutions,Yes,92.16,43.42,Yes,0.0201
+Argentina,3857300,Saudi Arabia,Tactical Shifts,No,104.87,34.89,Yes,0.0593
+Argentina,3857300,Saudi Arabia,Injuries,Yes,113.01,7.12,Yes,0.0008

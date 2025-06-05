@@ -1,0 +1,4 @@
+Team,Match ID,Opposing Team,Event Type,Significant Impact,Avg TRB Before (s),Avg TRB After (s),Faster After Event,p-value
+Argentina,3857289,Mexico,Substitutions,No,48.80,49.63,No,0.6762
+Argentina,3857289,Mexico,Injuries,No,104.07,76.39,Yes,0.3138
+Argentina,3857289,Mexico,Yellow Cards,Yes,39.01,142.34,No,0.0411

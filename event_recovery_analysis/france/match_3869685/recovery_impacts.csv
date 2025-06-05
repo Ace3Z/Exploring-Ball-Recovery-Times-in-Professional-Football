@@ -1,0 +1,5 @@
+Team,Match ID,Opposing Team,Event Type,Significant Impact,Avg TRB Before (s),Avg TRB After (s),Faster After Event,p-value
+France,3869685,Argentina,All Goals,No,34.75,101.14,No,0.1761
+France,3869685,Argentina,Substitutions,Yes,61.73,35.14,Yes,0.0283
+France,3869685,Argentina,Tactical Shifts,No,54.53,31.96,Yes,0.0929
+France,3869685,Argentina,Yellow Cards,No,53.87,61.23,No,0.5909

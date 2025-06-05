@@ -1,0 +1,2 @@
+Event Type,Before Event Sample Size,After Event Sample Size,Mann-Whitney U Statistic,p-value,Significant Difference,Cliffs Delta,Cliffs Delta CI Lower,Cliffs Delta CI Upper,Effect Size,Cliffs Delta Explanation
+Substitutions,10,10,58.0000,0.568855425538625559,No,0.1600,-0.4000,0.6700,Small,Recovery is FASTER after events (Not statistically significant)

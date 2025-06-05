@@ -1,0 +1,45 @@
+Team,Match ID,Event Type,Significant Impact,Avg TRB Before (s),Avg TRB After (s),Faster After Event,p-value,Opposing Team
+Argentina,All Matches,All Goals,No,42.31,86.46,No,0.1793,
+Argentina,All Matches,Substitutions,No,79.04,63.11,Yes,0.4470,
+Argentina,All Matches,Tactical Shifts,No,79.80,61.47,Yes,0.2904,
+Argentina,All Matches,Injuries,Yes,113.31,73.44,Yes,0.0043,
+Argentina,All Matches,Yellow Cards,No,66.43,79.33,No,0.2012,
+France,All Matches,All Goals,Yes,50.23,113.46,No,0.0123,
+France,All Matches,Substitutions,No,77.89,55.47,Yes,0.0692,
+France,All Matches,Tactical Shifts,No,70.21,39.99,Yes,0.1993,
+France,All Matches,Injuries,No,88.84,74.36,Yes,0.6933,
+France,All Matches,Yellow Cards,No,64.56,69.80,No,0.6268,
+Argentina,3857264,Tactical Shifts,No,112.02,106.32,Yes,0.9360,Poland
+Argentina,3857289,Substitutions,No,48.80,49.63,No,0.6762,Mexico
+Argentina,3857289,Injuries,No,104.07,76.39,Yes,0.3138,Mexico
+Argentina,3857289,Yellow Cards,Yes,39.01,142.34,No,0.0411,Mexico
+Argentina,3857300,Substitutions,Yes,92.16,43.42,Yes,0.0201,Saudi Arabia
+Argentina,3857300,Tactical Shifts,No,104.87,34.89,Yes,0.0593,Saudi Arabia
+Argentina,3857300,Injuries,Yes,113.01,7.12,Yes,0.0008,Saudi Arabia
+Argentina,3869151,Substitutions,No,175.41,120.40,Yes,0.5837,Australia
+Argentina,3869151,Injuries,No,80.38,86.32,No,0.7496,Australia
+Argentina,3869321,All Goals,No,46.21,29.93,Yes,0.4206,Netherlands
+Argentina,3869321,Substitutions,No,27.62,37.24,No,0.9788,Netherlands
+Argentina,3869321,Injuries,No,138.57,81.34,Yes,0.1067,Netherlands
+Argentina,3869321,Yellow Cards,No,86.62,78.55,Yes,0.3900,Netherlands
+Argentina,3869519,All Goals,No,32.74,72.78,No,0.4898,Croatia
+Argentina,3869519,Substitutions,No,99.60,79.75,Yes,0.6052,Croatia
+Argentina,3869519,Tactical Shifts,No,95.00,76.05,Yes,0.5905,Croatia
+Argentina,3869519,Injuries,No,81.23,90.82,No,0.5621,Croatia
+Argentina,3869519,Yellow Cards,No,24.97,45.90,No,0.0823,Croatia
+Argentina,3869685,All Goals,No,27.94,118.40,No,0.2829,France
+Argentina,3869685,Substitutions,No,67.04,60.72,Yes,0.6666,France
+Argentina,3869685,Tactical Shifts,No,74.85,56.14,Yes,0.4711,France
+Argentina,3869685,Injuries,No,146.37,83.63,Yes,0.5881,France
+Argentina,3869685,Yellow Cards,No,137.70,43.63,Yes,0.1269,France
+France,3857266,Substitutions,No,147.90,65.44,Yes,0.2647,Denmark
+France,3857279,All Goals,No,37.92,61.26,No,0.3692,Australia
+France,3857279,Substitutions,No,19.37,45.66,No,0.2025,Australia
+France,3857275,Substitutions,No,70.93,63.27,Yes,0.6979,Tunisia
+France,3857275,Injuries,No,77.58,85.07,No,0.8832,Tunisia
+France,3869152,Substitutions,No,78.60,64.69,Yes,0.5689,Poland
+France,3869552,Injuries,No,68.11,57.87,Yes,0.8458,Morocco
+France,3869685,All Goals,No,34.75,101.14,No,0.1761,Argentina
+France,3869685,Substitutions,Yes,61.73,35.14,Yes,0.0283,Argentina
+France,3869685,Tactical Shifts,No,54.53,31.96,Yes,0.0929,Argentina
+France,3869685,Yellow Cards,No,53.87,61.23,No,0.5909,Argentina

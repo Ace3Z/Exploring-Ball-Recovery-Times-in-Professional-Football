@@ -1,0 +1,2 @@
+Event Type,Before Event Sample Size,After Event Sample Size,Mann-Whitney U Statistic,p-value,Significant Difference,Cliffs Delta,Cliffs Delta CI Lower,Cliffs Delta CI Upper,Effect Size,Cliffs Delta Explanation
+Tactical Shifts,6,6,19.0000,0.935962472920942812,No,0.0556,-0.6667,0.6667,Negligible,Recovery is FASTER after events (Not statistically significant)

@@ -1,5 +1,0 @@
-Team,Match ID,Opposing Team,Event Type,Significant Impact,Avg TRB Before (s),Avg TRB After (s),Faster After Event,p-value
-Argentina,3869321,Netherlands,All Goals,No,46.21,29.93,Yes,0.4206
-Argentina,3869321,Netherlands,Substitutions,No,27.62,37.24,No,0.9788
-Argentina,3869321,Netherlands,Injuries,No,138.57,81.34,Yes,0.1067
-Argentina,3869321,Netherlands,Yellow Cards,No,86.62,78.55,Yes,0.3900

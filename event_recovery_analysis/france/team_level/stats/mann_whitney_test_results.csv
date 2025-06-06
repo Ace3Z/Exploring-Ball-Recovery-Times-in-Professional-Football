@@ -1,6 +1,0 @@
-Event Type,Before Event Sample Size,After Event Sample Size,Mann-Whitney U Statistic,p-value,Significant Difference,Cliffs Delta,Cliffs Delta CI Lower,Cliffs Delta CI Upper,Effect Size,Cliffs Delta Explanation
-All Goals,35,32,360.0000,0.012266588673271918,Yes,-0.3571,-0.6063,-0.0955,Medium,Recovery is SLOWER after events (Significantly slower)
-Substitutions,66,102,3926.0000,0.069179768152155832,No,0.1664,-0.0173,0.3397,Small,Recovery is FASTER after events (Not statistically significant)
-Tactical Shifts,23,45,617.0000,0.199345386298265037,No,0.1923,-0.1208,0.4648,Small,Recovery is FASTER after events (Not statistically significant)
-Injuries,49,25,577.5000,0.693311900743846632,No,-0.0571,-0.3364,0.2392,Negligible,Recovery is SLOWER after events (Not statistically significant)
-Yellow Cards,44,26,612.5000,0.626809442332446842,No,0.0708,-0.2291,0.3584,Negligible,Recovery is FASTER after events (Not statistically significant)

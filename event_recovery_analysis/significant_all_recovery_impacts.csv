@@ -1,7 +1,0 @@
-Team,Match ID,Event Type,Significant Impact,Avg TRB Before (s),Avg TRB After (s),Faster After Event,p-value,Opposing Team
-Argentina,All Matches,Injuries,Yes,113.31,73.44,Yes,0.0043,
-France,All Matches,All Goals,Yes,50.23,113.46,No,0.0123,
-Argentina,3857289,Yellow Cards,Yes,39.01,142.34,No,0.0411,Mexico
-Argentina,3857300,Substitutions,Yes,92.16,43.42,Yes,0.0201,Saudi Arabia
-Argentina,3857300,Injuries,Yes,113.01,7.12,Yes,0.0008,Saudi Arabia
-France,3869685,Substitutions,Yes,61.73,35.14,Yes,0.0283,Argentina

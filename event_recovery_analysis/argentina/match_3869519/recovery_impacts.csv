@@ -1,6 +1,0 @@
-Team,Match ID,Opposing Team,Event Type,Significant Impact,Avg TRB Before (s),Avg TRB After (s),Faster After Event,p-value
-Argentina,3869519,Croatia,All Goals,No,32.74,72.78,No,0.4898
-Argentina,3869519,Croatia,Substitutions,No,99.60,79.75,Yes,0.6052
-Argentina,3869519,Croatia,Tactical Shifts,No,95.00,76.05,Yes,0.5905
-Argentina,3869519,Croatia,Injuries,No,81.23,90.82,No,0.5621
-Argentina,3869519,Croatia,Yellow Cards,No,24.97,45.90,No,0.0823

@@ -17,14 +17,11 @@ To analyze how key match events (goals, substitutions, injuries, cards, etc.) af
   - Statistical summary tables with effect interpretations
 - **Custom dashboard** to assist coaching staff and analysts in tactical evaluation.
 
-> ⚠️ **Note:** No multiplicity adjustment has been done. Interpret p-values accordingly.
 
 ## 📦 Tech Stack
 - Python
 - Pandas
-- Scipy
+- SciPy
 - Plotly
 - StatsBombPy
 
-## 📜 License
-- This project is for academic and research purposes only.

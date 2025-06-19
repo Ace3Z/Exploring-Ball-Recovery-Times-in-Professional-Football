@@ -63,9 +63,9 @@ pip install pandas numpy scipy plotly statsbombpy matplotlib seaborn statsmodels
 The analysis must be run in the following sequence:
 
 #### **Step 1: Calculate Time to Recover Ball Possession**
-bash
+```bash
 python trb.py
-
+```
 This script:
 - Processes match events from StatsBomb data
 - Identifies ball loss and recovery events
@@ -74,9 +74,9 @@ This script:
 - Creates global DataFrames for subsequent analysis
 
 #### **Step 2: Perform Statistical Analysis**
-bash
+```bash
 python stat_anlys.py
-
+```
 This script:
 - Analyzes recovery times around different event types
 - Performs normality tests (Shapiro-Wilk)
@@ -86,9 +86,9 @@ This script:
 - Outputs results to the event_recovery_analysis/ directory
 
 #### **Step 3: Generate Match Timeline Visualizations**
-bash
+```bash
 python game_timeline.py
-
+```
 This script:
 - Creates interactive match timeline plots
 - Overlays match events (goals, cards, substitutions) on recovery data
@@ -96,9 +96,9 @@ This script:
 - Produces match-specific HTML files in the visuals/ directory
 
 #### **Step 4: Create Complete Visual Dashboard**
-bash
+```bash
 python vis_dashboard.py
-
+```
 This script:
 - Generates the comprehensive interactive dashboard
 - Creates normality test visualizations (QQ plots and KDE plots)
